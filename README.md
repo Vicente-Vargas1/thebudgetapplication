@@ -21,8 +21,6 @@ The Budget Tracker is a web application designed to help users manage their proj
 - **Materialize CSS**: Front-end CSS framework for a modern, responsive layout.
 - **JavaScript/jQuery**: For AJAX functionality to handle asynchronous requests.
 - **Django ORM**: For managing database models and queries.
-- **PostgreSQL/MySQL (Database)**: Database backend (assuming the default Django database setup).
-- **jQuery UI**: Used for the datepicker feature.
   
 ## Data Structures
 
